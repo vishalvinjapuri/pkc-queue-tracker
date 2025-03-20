@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/60b307a1-272c-47bd-9fdf-9eb480979d16
+
 # Pokémon Center Queue Tracker
 
 A Chrome extension that displays your current position in the Pokémon Center website's queue system.
